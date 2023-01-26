@@ -1,5 +1,5 @@
 # Unityで作ったゴミアプリ  
-https://auag0.github.io/Unity-Web-Game/  
+https://azarasii.github.io/Unity-Web-Game/  
 # 操作方法
 - A 左移動  
 - D 右移動  
